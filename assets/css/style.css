@@ -1,0 +1,46 @@
+h1 {
+	font-family: 'Bowlby One SC', cursive;
+}
+
+.jumbotron {
+	background-color: #F0E68C;
+}
+
+.guessWord {
+	font-size: 20px;
+}
+
+/*.guessWord span {
+	margin-left: 15px;
+}*/
+
+.guessWord {
+	letter-spacing: 15px;
+}
+
+.well {
+	letter-spacing: 15px;
+}
+
+.messageText {
+	color: rgb(91, 114, 136);
+	font-size: 25px;
+}
+
+.generateWord {
+	background-color: #F0E68C;
+	padding: 10px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+input[type="text"] {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+/*#imgCanvas {
+	border: 3px solid #DD4814;
+}*/
